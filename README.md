@@ -3,7 +3,8 @@
 pethotel/Image uploaded from iOS.jpg
 
 
-```CREATE TABLE pets (
+```
+CREATE TABLE pets (
    id SERIAL PRIMARY KEY NOT NULL,
    name VARCHAR(20),
    color VARCHAR(20),
