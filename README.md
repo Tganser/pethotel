@@ -12,7 +12,7 @@ CREATE TABLE pets (
    
 );
 
-CREATE TABLE pets (
+CREATE TABLE owners (
    id SERIAL PRIMARY KEY NOT NULL,
    name VARCHAR(20),
  
