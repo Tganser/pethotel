@@ -1,5 +1,8 @@
 # pethotel
 
+pethotel/Image uploaded from iOS.jpg
+
+
 ```CREATE TABLE pets (
    id SERIAL PRIMARY KEY NOT NULL,
    name VARCHAR(20),
@@ -29,4 +32,3 @@ CREATE TABLE owner_pets (
    
 );```
 
-pethotel/Image uploaded from iOS.jpg
